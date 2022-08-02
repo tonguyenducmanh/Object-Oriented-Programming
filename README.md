@@ -16,3 +16,7 @@ Nói thì giống nhau thế thôi, chứ thực ra họ cũng có 1 vài điể
 ## Abstract class
 Là một sự kết hợp giữa: base class, giúp cho các class con đỡ phải viết lại code (Don't repeat yourself) thay vào đó chỉ việc kế thừa, và interface giúp triển khai toàn bộ các property, method theo mẫu nhưng lại có sự lặp lại code. Có thể hiểu đó là 1 cô gái lúc thì hướng nội, lúc thì hướng ngoại
 ![abtract class](images/abtract%20class.png)
+## Interface
+Ngôn ngữ lập trình CSharp phản ánh đúng như ngoài đời thật. Chúng ta chỉ có thể dùng nó để kế thừa từ 1 class, nhưng lại có thể kế thừa từ nhiều Interface (interface là 1 hợp đồng) - nó không có đoạn mã thực thi code mà chỉ khai báo rằng những class kế thừa nó sẽ có những đặc điểm tính chất này.
+Một cố gái chỉ có thể kế thừa đặc điểm, tính cách từ 1 người cha. Nhưng cô gái đó có thể tự học tập và rèn luyện tại nhiều trường đại học sau đó sẽ lấy được nhiều kiến thức chuyên ngành khác nhau. Những tấm bằng đại học đó sẽ luôn được công khai để mọi người có thể thấy rằng cô gái đó có thể làm được những gì.
+![interface](images/interfaces.png)
