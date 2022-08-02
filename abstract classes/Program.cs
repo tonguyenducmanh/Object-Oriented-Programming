@@ -36,6 +36,13 @@
             //DataAccess da = new SqlDataAccess();
             //da.LoadConnectionString();
 
+            // lưu ý : abstract class hữu dụng tùy trường hợp.
+            // ví dụ bạn dùng dataaccess để gộp những trường hợp trùng connection string là
+            // database thì ổn. nhưng nếu có những class khác cũng cần connection string nhưng
+            // không phải là data access thì việc dùng public method, class hợp lý hơn là 
+            // tạo ra 1 abstract class rồi kế thừa
+
+
             List<DataAccess> database = new List<DataAccess>()
             {
                 new SqlDataAccess(),
