@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "simple oop exmaple", "simpl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaces", "interfaces\interfaces.csproj", "{9491970B-89E9-4D74-9B75-D17D975AF3D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance vs Interfaces\Inheritance.csproj", "{91BA4231-F2B3-41B2-86DA-039DADD67841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "replace Inheritance by Interface", "replace Inheritance by Interface\replace Inheritance by Interface.csproj", "{3B925D8F-B9F0-44EC-A624-8A8F6DD5570D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{9491970B-89E9-4D74-9B75-D17D975AF3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9491970B-89E9-4D74-9B75-D17D975AF3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9491970B-89E9-4D74-9B75-D17D975AF3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BA4231-F2B3-41B2-86DA-039DADD67841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BA4231-F2B3-41B2-86DA-039DADD67841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BA4231-F2B3-41B2-86DA-039DADD67841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BA4231-F2B3-41B2-86DA-039DADD67841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B925D8F-B9F0-44EC-A624-8A8F6DD5570D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B925D8F-B9F0-44EC-A624-8A8F6DD5570D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B925D8F-B9F0-44EC-A624-8A8F6DD5570D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B925D8F-B9F0-44EC-A624-8A8F6DD5570D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
