@@ -13,3 +13,6 @@ Con gái nói chung đều là phụ nữ cả, họ đều có các đặc đi�
 ## Tính đa hình
 Nói thì giống nhau thế thôi, chứ thực ra họ cũng có 1 vài điểm khác nhau đấy nhé. Gái ngoan thì có thể thích nấu ăn nè, thích ngồi ngắm ny chơi game nè. Còn gái hư thì đi bar nè, mẹ có đánh vào mông cũng phải đi phượt nè.
 ![tính đa hình](images/tinhdahinh.png)
+## Abstract class
+Là một sự kết hợp giữa: base class, giúp cho các class con đỡ phải viết lại code (Don't repeat yourself) thay vào đó chỉ việc kế thừa, và interface giúp triển khai toàn bộ các property, method theo mẫu nhưng lại có sự lặp lại code. Có thể hiểu đó là 1 cô gái lúc thì hướng nội, lúc thì hướng ngoại
+![abtract class](images/abtract%20class.png)
